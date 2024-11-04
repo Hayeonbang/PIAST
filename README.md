@@ -1,4 +1,4 @@
-# PIAST: Multimodal Piano Dataset with Audio, Symbolic and Text
+# PIAST Dataset
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-<COLOR>.svg)](arxiv) 

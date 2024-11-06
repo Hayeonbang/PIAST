@@ -31,7 +31,7 @@ python at_main.py
 Code for the experiments in the paper will be updated soon! 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is under the CC-BY-NC 4.0 license.
 
 ## Citation
 Citation format will be updated soon

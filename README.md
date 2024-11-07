@@ -1,7 +1,7 @@
 # PIAST Dataset
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2411.02551-<COLOR>.svg)]([https://arxiv.org/abs/2410.03264](https://arxiv.org/abs/2411.02551)) 
+[![arXiv](https://img.shields.io/badge/arXiv-2411.02551-<COLOR>.svg)]((https://arxiv.org/abs/2411.02551)) 
 [![Datasets](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Datasets-yellow)](https://huggingface.co/datasets/Hayeonbang/PIAST)
 [![Demo page](https://img.shields.io/badge/Demo-page-hotpink)](https://hayeonbang.github.io/PIAST_dataset/)
 

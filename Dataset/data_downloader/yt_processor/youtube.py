@@ -15,7 +15,7 @@ class Downloader:
             os.makedirs(self.audio_dir)
 
         with open(self.youtube_ids_file, 'r') as file:
-            youtube_ids = [line.strip() for line in file]
+            youtube_ids = {line.strip()[:11] for line in file if len(line.strip()) >= 11}
 
         for i, video_id in enumerate(youtube_ids, start=1):
             print(f"Processing video {i}/{len(youtube_ids)}: {video_id}")

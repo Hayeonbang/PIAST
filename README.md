@@ -37,7 +37,33 @@ Code for the experiments in the paper will be updated soon!
 This project is under the CC-BY-NC 4.0 license.
 
 ## Citation
-Citation format will be updated soon
-
+```bash
+@inproceedings{bang-etal-2024-piast,
+    title = "{PIAST}: A Multimodal Piano Dataset with Audio, Symbolic and Text",
+    author = "Bang, Hayeon  and
+      Choi, Eunjin  and
+      Finch, Megan  and
+      Doh, Seungheon  and
+      Lee, Seolhee  and
+      Lee, Gyeong-Hoon  and
+      Nam, Juhan",
+    editor = "Kruspe, Anna  and
+      Oramas, Sergio  and
+      Epure, Elena V.  and
+      Sordo, Mohamed  and
+      Weck, Benno  and
+      Doh, SeungHeon  and
+      Won, Minz  and
+      Manco, Ilaria  and
+      Meseguer-Brocal, Gabriel",
+    booktitle = "Proceedings of the 3rd Workshop on NLP for Music and Audio (NLP4MusA)",
+    month = nov,
+    year = "2024",
+    address = "Oakland, USA",
+    publisher = "Association for Computational Lingustics",
+    url = "https://aclanthology.org/2024.nlp4musa-1.2/",
+    pages = "5--10"
+}
+```
 ## Author Information
 For further inquiries, please reach out to me at hayeonbang@kaist.ac.kr.
